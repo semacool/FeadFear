@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b41ee447aff6fa0418ba1dbd79519cae
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Tiffany Sans
+  fontNames:
+  - Tiffany Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ed24fdc1995e6834996fde275f9f0421, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
